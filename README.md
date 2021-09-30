@@ -1,4 +1,7 @@
 # DS_4400_tutorial
 
 ## Dependencies
-\BD{Missing}
+numpy
+matplotlib
+PIL
+scikit-learn
