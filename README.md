@@ -13,5 +13,5 @@
 ## Dependencies
 - numpy
 - matplotlib
-- PIL
+- PILLOW
 - scikit-learn
